@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Welcome to Python programming.")
+name = input("What is your name? ")
+print("Hello,"  + name + " Glad to have you here learning Python!")
+age = int(input("How old are you? "))
