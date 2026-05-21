@@ -1,0 +1,5 @@
+word = input("Enter a word: ")
+print("The length of the word is: ", len(word))
+print("The word in uppercase is: ", word.upper())
+print("The word in lowercase is: ", word.lower()) 
+print("Repeating the word 3 times: ", word * 3)

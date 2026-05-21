@@ -1,0 +1,21 @@
+print("Hello, World!")
+print("hello", 2027)
+print(27)
+print(27.4)
+print(True > False)
+print(False > True)
+print(2+5)
+print(3-9)
+print(4*7)
+print(10/2)
+print (0.1 + 0.2)
+print(0.1 + 0.2 == 0.3)
+print (10//2)
+print(10%3)
+print(2**3)
+print(2**0.5)
+a = 2
+b = 3
+print(a + b)
+print(9 % 6 % 3)
+
