@@ -1,0 +1,11 @@
+numbers = [5, 2, 9, 1, 7]
+print("Original list:", numbers)
+print("Sorted list:", sorted(numbers))
+numbers.sort()
+print("After sort:", numbers)
+numbers.append(10)
+print("After append:", numbers)
+numbers.remove(2)
+print("After remove:", numbers)
+numbers.reverse()
+print("Reversed list:", numbers)
